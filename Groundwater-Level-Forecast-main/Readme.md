@@ -20,10 +20,10 @@ A machine learning-based application for predicting groundwater levels using env
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Chart.js
+- **Frontend:** React.js
 - **Backend:** Spring Boot, Java
 - **ML Service:** Python, scikit-learn
-- **Database:** MySQL, MongoDB
+- **Database:** MySQL
 
 ## 🏗️ Installation
 
@@ -68,10 +68,11 @@ POST /api/v1/predict
 
 ## 👥 Team
 
-- Pranav Khode
-- Hassan Ahmad
 - Piyush Tiwari
-- Pranup Tiwari 
+- Hassan Ahmed
+- Pranav Khode
+- Pranup Patra
+- Nikunj Chandak 
 
 ## 📄 License
 
